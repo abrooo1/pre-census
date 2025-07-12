@@ -1,6 +1,7 @@
-streamlit
 geopandas
 rasterio
 shapely
 matplotlib
 numpy
+scikit-image
+descartes
